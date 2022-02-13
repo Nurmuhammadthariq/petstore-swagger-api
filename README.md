@@ -1,5 +1,5 @@
 # Pet Store Api based petsore.swagger.io
-Pet Store API is a Day30 Assignment from Dibimbing course in the form API server for pet store web application based on [petstore.swagger.io](https://petstore.swagger.io/#/) API documentation. This project uses [ExpressJs](https://www.npmjs.com/package/express) framework and MySQL as the database.
+Pet Store API is a Day30 Assignment from Dibimbing course in the form API server for pet store web application based on [petstore.swagger.io](https://petstore.swagger.io/#/) API documentation. This project uses [ExpressJs](https://www.npmjs.com/package/express) framework and MySQL as the database and express validator to Validate request
 
 ## Installation
 In the root project directory run `npm install` on your terminal.
